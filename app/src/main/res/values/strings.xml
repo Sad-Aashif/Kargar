@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">Kargar</string>
+
+    <!-- Login Screen Strings -->
+    <string name="login_tagline">Hyperlocal Home Services Across India</string>
+    <string name="login_subtitle">Instant, reliable &amp; verified technicians at your doorstep with transparent pricing.</string>
+    <string name="login_badge_speed">15-Min Doorstep Dispatch</string>
+    <string name="login_badge_verified">Police Verified Professionals</string>
+    <string name="login_badge_pricing">Transparent Fixed Base Rates</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="login_terms">By continuing, you agree to Kargar Terms of Service &amp; Privacy Policy</string>
+
+    <!-- Home Screen Strings -->
+    <string name="home_header_prompt">Aaj kya theek karana hai?</string>
+    <string name="home_header_subtitle">Reliable home technicians across %1$s at upfront rates</string>
+    <string name="quick_dispatch_badge">%1$s Quick Repair • Doorstep in 15 mins</string>
+    <string name="search_placeholder">Search plumbing, wiring, AC repair…</string>
+    <string name="popular_services">Popular Services</string>
+    <string name="popular_services_subtitle">Fixed base pricing • Instant technician dispatch</string>
+    <string name="verified_workers_title">Verified Workers Near You</string>
+    <string name="verified_workers_subtitle">Background checked • Live availability</string>
+    <string name="online_count">%1$d Online</string>
+    <string name="base_visiting_fee">Base Visiting Fee</string>
+    <string name="book_now">Book Now</string>
+    <string name="trust_guarantee_title">Kargar Trust Guarantee</string>
+    <string name="trust_guarantee_subtitle">Verified IDs • Fixed Rates • Reservice Warranty</string>
+    <string name="default_city">Gwalior</string>
+    <string name="select_city_chip">Select City</string>
+
+    <!-- Service Names -->
+    <string name="service_plumbing">Plumbing</string>
+    <string name="service_plumbing_subtitle">Pipes, taps &amp; leaks</string>
+    <string name="service_electrician">Electrician</string>
+    <string name="service_electrician_subtitle">Switches, fans &amp; wiring</string>
+    <string name="service_ac_fridge">AC / Fridge Repair</string>
+    <string name="service_ac_fridge_subtitle">Cooling &amp; gas refill</string>
+    <string name="service_starting_price">Starting %1$s</string>
+
+    <!-- City Bottom Sheet Strings -->
+    <string name="select_city_title">Select Your City</string>
+    <string name="select_city_subtitle">Choose your city to find verified local technicians near you</string>
+    <string name="city_delhi">Delhi NCR</string>
+    <string name="city_mumbai">Mumbai</string>
+    <string name="city_bengaluru">Bengaluru</string>
+    <string name="city_gwalior">Gwalior</string>
+    <string name="city_bhopal">Bhopal</string>
+
+    <!-- Language Bottom Sheet Strings -->
+    <string name="select_language_title">Choose Language / भाषा चुनें</string>
+    <string name="select_language_subtitle">Select your preferred Indian language for app interface</string>
+    <string name="lang_english">English</string>
+    <string name="lang_hindi">हिन्दी (Hindi)</string>
+    <string name="lang_marathi">मराठी (Marathi)</string>
+    <string name="lang_bengali">বাংলা (Bengali)</string>
+    <string name="lang_tamil">தமிழ் (Tamil)</string>
+    <string name="lang_telugu">తెలుగు (Telugu)</string>
+    <string name="lang_gujarati">ગુજરાતી (Gujarati)</string>
+    <string name="lang_kannada">ಕನ್ನಡ (Kannada)</string>
+
+    <!-- Booking Screen Strings -->
+    <string name="complete_booking_title">Complete Booking</string>
+    <string name="service_details_title">Service Details</string>
+    <string name="your_issue_label">Your Issue</string>
+    <string name="your_issue_placeholder">e.g., Tap is leaking, switchboard repair, fan making noise…</string>
+    <string name="service_address_label">Service Address (%1$s)</string>
+    <string name="payment_mode_label">Payment Mode</string>
+    <string name="payment_mode_upi">UPI</string>
+    <string name="payment_mode_upi_sub">GPay / PhonePe / Paytm / QR</string>
+    <string name="payment_mode_cash">Cash</string>
+    <string name="payment_mode_cash_sub">Pay cash after service completion</string>
+    <string name="zero_deposit_note">Zero upfront deposit required. Inspect the work before paying.</string>
+    <string name="total_payable_label">Total Payable</string>
+    <string name="includes_base_charge">Includes base visiting charge</string>
+    <string name="confirm_and_book">Confirm &amp; Book</string>
+    <string name="booking_confirmed_toast">Booking Confirmed! Worker is on the way.</string>
+
+    <!-- Job Status Strings -->
+    <string name="job_status_title">Live Order Tracking</string>
+    <string name="booking_confirmed_headline">Booking Confirmed!</string>
+    <string name="booking_confirmed_subtitle">Technician is dispatched to your %1$s address. Base charge %2$s payable after work.</string>
+    <string name="estimated_arrival_badge">Estimated Arrival: ~12-15 mins</string>
+    <string name="live_timeline_title">Live Service Timeline</string>
+    <string name="timeline_step_1_title">Booking Accepted</string>
+    <string name="timeline_step_1_sub">Technician confirmed your service request</string>
+    <string name="timeline_step_2_title">Worker on the way</string>
+    <string name="timeline_step_2_sub">In transit • ETA 12-15 mins to your address</string>
+    <string name="timeline_step_3_title">Work in progress</string>
+    <string name="timeline_step_3_sub">Inspection and fix starts on technician arrival</string>
+    <string name="assigned_technician_title">Assigned Technician</string>
+    <string name="call_worker_button">Call Worker</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="simulate_job_completion">[Test] Simulate Job Completion</string>
+
+    <!-- Invoice & Rating Strings -->
+    <string name="job_completed_title">Job Completed</string>
+    <string name="tax_invoice_title">Tax Invoice &amp; Receipt</string>
+    <string name="service_technician_label">Service Technician</string>
+    <string name="service_provided_label">Service Provided</string>
+    <string name="payment_mode_receipt_label">Payment Mode</string>
+    <string name="total_amount_paid_label">Total Amount Paid</string>
+    <string name="inclusive_taxes">Inclusive of all local taxes</string>
+    <string name="how_was_service_prompt">How was the service?</string>
+    <string name="rate_experience_prompt">Rate your experience with %1$s</string>
+    <string name="add_review_label">Add a review (Optional)</string>
+    <string name="add_review_placeholder">Tell us about technician punctuality, work quality, behavior…</string>
+    <string name="submit_and_return_home">Submit &amp; Return Home</string>
+    <string name="feedback_submitted_toast">Thank you for your feedback!</string>
+
+    <!-- Phase 8: Bottom Navigation & Tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_bookings">Bookings</string>
+    <string name="tab_profile">Profile</string>
+
+    <!-- Phase 8: Bookings Screen -->
+    <string name="bookings_title">My Bookings</string>
+    <string name="bookings_subtitle">Track active orders &amp; technician service history</string>
+    <string name="active_jobs_title">Active Jobs</string>
+    <string name="past_jobs_title">Past Jobs</string>
+    <string name="rebook_button">Rebook</string>
+    <string name="track_live_order">Track Live Order</string>
+    <string name="status_in_transit">IN TRANSIT</string>
+    <string name="status_completed">Completed</string>
+
+    <!-- Phase 8: Profile Screen -->
+    <string name="profile_title">My Profile</string>
+    <string name="saved_addresses_title">Saved Addresses</string>
+    <string name="home_address_label">Home Address</string>
+    <string name="default_badge">DEFAULT</string>
+    <string name="settings_title">Account &amp; Preferences</string>
+    <string name="setting_payment_methods">Payment Methods</string>
+    <string name="setting_payment_methods_sub">UPI, Cards &amp; Cash preferences</string>
+    <string name="setting_help_support">Help &amp; Support</string>
+    <string name="setting_help_support_sub">24x7 Kargar Helpline &amp; WhatsApp</string>
+    <string name="setting_privacy_terms">Privacy &amp; Terms of Service</string>
+    <string name="log_out_button">Log Out</string>
+    <string name="log_out_toast">Logged out successfully</string>
+
+    <!-- Phase 9: Kargar Partner (Supply Side) Strings -->
+    <string name="login_as_partner">Are you a professional? Login as Kargar Partner</string>
+    <string name="login_as_partner_short">Login as Partner</string>
+    <string name="partner_dashboard_title">Kargar Partner</string>
+    <string name="partner_status_online">Online</string>
+    <string name="partner_status_offline">Offline</string>
+    <string name="partner_ready_for_jobs">Ready for new customer bookings</string>
+    <string name="partner_offline_banner">You are currently offline. Toggle Online to start receiving instant job requests.</string>
+    <string name="partner_stats_today_earnings">Today\'s Earnings</string>
+    <string name="partner_stats_jobs_done">Jobs Completed</string>
+    <string name="partner_stats_rating">Rating</string>
+    <string name="partner_incoming_title">Incoming Requests Nearby</string>
+    <string name="partner_incoming_subtitle">Verified customer requests in your service radius</string>
+    <string name="partner_accept_job">Accept Job</string>
+    <string name="partner_active_task_title">Active Task (In Progress)</string>
+    <string name="partner_active_task_subtitle">Customer is waiting for your arrival</string>
+    <string name="partner_navigate_button">Navigate</string>
+    <string name="partner_mark_completed_button">Mark as Completed</string>
+    <string name="partner_call_customer">Call</string>
+    <string name="partner_job_accepted_toast">Job accepted! Customer notified you are on the way.</string>
+    <string name="partner_navigating_toast">Opening GPS route navigation…</string>
+    <string name="partner_job_completed_toast">Job completed! %1$s recorded in your today\'s earnings.</string>
+    <string name="partner_switch_to_customer">Switch to Customer App</string>
+    <string name="partner_no_active_tasks">No active tasks in progress</string>
+</resources>
